@@ -2,6 +2,8 @@
 
 整理依据：本次用户上传流程、后台截图和实际制作文件，日期 2026-11-05。官方入口：https://sticker.weixin.qq.com/ 。本文件没有声称已重新访问并核实当前全部官方规则。
 
+上传地址：[微信表情开放平台首页](https://sticker.weixin.qq.com/) · [表情专辑投稿页](https://sticker.weixin.qq.com/cgi-bin/mmemoticonwebnode-bin/pages/stickerPage/detail)。先登录；必要时从首页进入“提交作品 → 表情专辑”。
+
 来源区分：**截图明确**为用户提供的后台说明；**本次实用规格**为本次制作、上传使用的规格；**制作建议**不是平台硬性要求。使用时以当前后台要求覆盖本表，记录有变化的字段。
 
 ## A. 表情专辑

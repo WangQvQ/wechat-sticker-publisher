@@ -26,6 +26,8 @@ git clone https://github.com/WangQvQ/wechat-sticker-publisher.git "${CODEX_HOME:
 
 ## 素材与工作流
 
+准备好素材后，前往 [微信表情开放平台](https://sticker.weixin.qq.com/) 登录，也可以使用 [表情专辑投稿页](https://sticker.weixin.qq.com/cgi-bin/mmemoticonwebnode-bin/pages/stickerPage/detail) 直达上传表单。若直达页跳转，登录后从首页选择“提交作品 → 表情专辑”。
+
 查看 [完整素材与文案清单](references/materials-checklist.md) 和 [SKILL.md](SKILL.md)。完整适用范围为16张主图加7张配套图，共23张上传图片；数量和可选模块可按需求调整。主页横幅与专辑详情横幅是两个字段，尺寸相同也不要混用不同体积的文件。
 
 制作参考来自一次真实上传准备流程。不同年代教程的张数、体积和缩略图要求可能不一致；本skill区分后台截图要求、本次实用规格和制作建议，使用时以当前后台为准。
