@@ -1,0 +1,87 @@
+{
+  "character": "嘴硬小鹅",
+  "status": "example-with-known-visual-issues",
+  "known_issue": "用户反馈部分动作存在非预期漂移；不视为已通过视觉验收或已上架成品。",
+  "images": [
+    {
+      "number": 1,
+      "file": "gifs/01-就这.gif",
+      "bytes": 50355
+    },
+    {
+      "number": 2,
+      "file": "gifs/02-收到.gif",
+      "bytes": 53342
+    },
+    {
+      "number": 3,
+      "file": "gifs/03-你再说一遍.gif",
+      "bytes": 53546
+    },
+    {
+      "number": 4,
+      "file": "gifs/04-不听不听.gif",
+      "bytes": 53254
+    },
+    {
+      "number": 5,
+      "file": "gifs/05-哼.gif",
+      "bytes": 44598
+    },
+    {
+      "number": 6,
+      "file": "gifs/06-你说得对.gif",
+      "bytes": 46993
+    },
+    {
+      "number": 7,
+      "file": "gifs/07-哈哈哈哈.gif",
+      "bytes": 47982
+    },
+    {
+      "number": 8,
+      "file": "gifs/08-拿下.gif",
+      "bytes": 45463
+    },
+    {
+      "number": 9,
+      "file": "gifs/09-累了.gif",
+      "bytes": 41858
+    },
+    {
+      "number": 10,
+      "file": "gifs/10-下班.gif",
+      "bytes": 55605
+    },
+    {
+      "number": 11,
+      "file": "gifs/11-理理我.gif",
+      "bytes": 57460
+    },
+    {
+      "number": 12,
+      "file": "gifs/12-爱你哟.gif",
+      "bytes": 60387
+    },
+    {
+      "number": 13,
+      "file": "gifs/13-打扰了.gif",
+      "bytes": 55250
+    },
+    {
+      "number": 14,
+      "file": "gifs/14-无语.gif",
+      "bytes": 44459
+    },
+    {
+      "number": 15,
+      "file": "gifs/15-啊.gif",
+      "bytes": 44126
+    },
+    {
+      "number": 16,
+      "file": "gifs/16-在吗.gif",
+      "bytes": 40636
+    }
+  ]
+}

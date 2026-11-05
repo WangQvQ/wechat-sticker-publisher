@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信表情包上架助手"
+  short_description: "先确认静态表情，再制作动态与完整上架素材、文案和上传清单"
+  default_prompt: "使用 $wechat-sticker-publisher，为我准备微信表情包上架需要的素材和文案，先给我静态确认稿，确认后再做动态。"
